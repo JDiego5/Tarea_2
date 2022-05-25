@@ -25,6 +25,8 @@ C)	Demostrar que corriente y resistencia son inversamente proporcionales.
 
 D)	Entender las leyes de ohm para el desarrollo de ejercicios. 
 
+E)	Determinar las formulas de potencia y energía, con los conceptos de voltaje, resistencia y corriente.
+
 2) Marco Teorico
 
 3. CANTIDADES Y UNIDADES
@@ -79,7 +81,12 @@ D)	Entender las leyes de ohm para el desarrollo de ejercicios.
 
 5) Conclusiones
 
-
+En conclusion, los conceptos de voltaje, resistencia y corriente tienen una relacion de algebraica. En donde la corriente es directamente 
+proporcional al voltaje, es decir, a mayor voltaje mayor corriente, a su vez la corriente es inversamente proporcional a la resistencia, por
+lo que a mayor corriente, menor resistencia, pero en cambio a menor corriente existe una mayor resistencia. La potencia es una cierta cantidad 
+de energia utilizado en un periodo de tiempo. A su vez la potencia se puede determinar mediante el producto de la corriente al cuadrado por la 
+resistencia. Otra forma de determinar la potencia es mediante la division del voltaje al cuadrado por la resistencia. Y por ultima forma de 
+encontrar es mediante el producto de Voltaje por la corriente. 
 
 6) Bibliografia
 
