@@ -106,7 +106,9 @@ E)	Determinar las formulas de potencia y energía, con los conceptos de voltaje,
 
 4) Video
 
+Link del video de Youtube:
 
+https://youtu.be/wCIq13-4kvI
 
 5) Conclusiones
 
